@@ -1,0 +1,57 @@
+{
+    "tasks":[
+        {
+        "task":"test 1",
+        "parent":"parent task 1",
+        "priority":"1",
+        "start":"1/11/2019",
+        "end":"1/26/2019"
+        },
+        {
+        "task":"test 2",
+        "parent":"parent task 2",
+        "priority":"5",
+        "start":"1/10/2019",
+        "end":"1/20/2019"
+        }
+    ],
+    "users":[
+        {
+        "fName":"name 1",
+        "lName":"name 2",
+        "eId":"1"
+        },
+        {
+            "fName":"name 3",
+            "lName":"name 4",
+            "eId":"2"
+        }
+    ],
+    "managerSearch":[
+        {
+        "fName":"manager name 1"
+        },
+        {
+            "fName":"manager name 3"
+        }
+    ],
+    "projectDetails":[
+        {
+        "projectName":"proj name 1",
+        "tasks":"2",
+        "completed":"Y",
+        "start":"1/10/2019",
+            "end":"1/26/2019",
+            "priority":"1"
+        },
+        {
+            "projectName":"proj name 2",
+            "tasks":"1",
+            "completed":"N",
+            "start":"1/10/2019",
+                "end":"1/26/2019",
+                "priority":"2"
+
+        }
+    ]
+}

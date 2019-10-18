@@ -1,0 +1,30 @@
+.paddingLeft30{
+    padding-left:30px;
+}
+.addComponentWidth{
+    width:250px;
+}
+.paddingTop10px{
+    padding-top: 10px;
+}
+.displayInlineFlex{
+    display: inline-flex
+}
+.addComponentSliderWidth{
+    width:225px !important;
+}
+.paddingright3px{
+    padding-right: 3px;
+}
+.paddingLeft3px{
+    padding-left:3px;
+}
+.borderBottom{
+    border-bottom: 1px solid black;
+}
+.paddingBottom20px{
+    padding-bottom: 20px;
+}
+.error{
+    color: red
+}
